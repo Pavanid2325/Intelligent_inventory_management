@@ -1,0 +1,12 @@
+.git
+.venv
+.venv311
+__pycache__
+.pytest_cache
+.streamlit
+data/raw/*.csv
+data/processed/*.csv
+database/*.db
+models/*.joblib
+reports/model_metrics.json
+*.pyc
